@@ -1,4 +1,5 @@
 # PP5 Advanced FrontEnd: Capture The Moment
+![YOLO Badge](https://img.shields.io/badge/YOLO-activated-brightgreen)
 
 ![Mockup](https://github.com/Humanslaughter/API-Django/assets/122393963/a84f6bf4-bcad-46b5-9df2-29d15f622867)
 
